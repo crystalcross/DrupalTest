@@ -31,8 +31,6 @@ class TestManager {
    *
    * @param string $data
    *   The data to encrypt.
-   * @param string $key
-   *   The encryption key.
    *
    * @return string
    *   The encrypted and encoded data.
@@ -50,8 +48,6 @@ class TestManager {
    *
    * @param string $data
    *   The data to decrypt.
-   * @param string $key
-   *   The encryption key.
    *
    * @return string
    *   The decrypted data.
