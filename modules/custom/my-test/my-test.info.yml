@@ -1,0 +1,7 @@
+name: My Test Module
+type: module
+description: My Test Developer Module.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9 || ^10
+
