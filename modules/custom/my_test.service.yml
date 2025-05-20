@@ -1,0 +1,4 @@
+services:
+  my_test.crypt_manager:
+    class: Drupal\my_test\Manager\TestManager
+    arguments: ['@messenger']
